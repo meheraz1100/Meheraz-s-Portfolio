@@ -9,3 +9,9 @@ function sendMail(){
 
     emailjs.send('service_zlz4mh7', 'template_jtevi6t', parms).then(alert('Email Sent Success!!!'))
 }
+
+// fuul name
+// email addrss
+// mbile 
+// subject
+//  your message 
